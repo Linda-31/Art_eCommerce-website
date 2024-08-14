@@ -8,5 +8,11 @@
 <h2>2.Login Page:</h2>
 <img src="https://github.com/user-attachments/assets/88a2d2cb-e00f-40fb-bb7c-eafac8028b70">
 <h2>3.Registration Page:</h2>
-
+<img src="https://github.com/user-attachments/assets/de4d627e-4c4b-4a60-9025-31f1ceaa277c">
+<h2>4.Workshop Page:</h2>
+<img src="">
+<h2>5.About Us Page:</h2>
+<img src="">
+<h2>6.Shop Page:</h2>
+<img src="">
  
