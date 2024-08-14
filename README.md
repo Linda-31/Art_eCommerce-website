@@ -6,5 +6,7 @@
 <h2>1.Index Page:</h2>
 <img src="https://github.com/user-attachments/assets/66ea956a-4099-4c06-9ba3-3c4e8523ee68">
 <h2>2.Login Page:</h2>
+<img src="https://github.com/user-attachments/assets/88a2d2cb-e00f-40fb-bb7c-eafac8028b70">
+<h2>3.Registration Page:</h2>
 
  
