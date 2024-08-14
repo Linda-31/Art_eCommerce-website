@@ -14,5 +14,5 @@
 <h2>5.About Us Page:</h2>
 <img src="https://github.com/user-attachments/assets/2e7b78cd-36d2-4d10-b1e5-33d0d58b30d0">
 <h2>6.Shop Page:</h2>
-<img src="">
+<img src="https://github.com/user-attachments/assets/0a212864-3089-4bf6-8ba4-8370a45de26f">
  
